@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">VassQuick</string>
+
+    <!-- main -->
+    <string name="welcome_to_vassquick">¡Bienvenido a VassQuick!</string>
+    <string name="let_s_connect">Conectemos</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="login">Acceder</string>
+    <string name="already_have_an_account">¿Ya tiene una cuenta?</string>
+    <!-- login -->
+    <string name="app_logo">Logo App</string>
+    <string name="login_login">Acceder</string>
+    <string name="email">Correo</string>
+    <string name="password_login">Contraseña</string>
+    <string name="login_cannot_be_empty">El correo no puede estar vacio</string>
+    <string name="password_cannot_be_empty">La contraseña no puede estar vacia</string>
+    <string name="login_uppercase">INICIAR SESIÓN</string>
+    <string name="biometric_authentication">AUTENTICACIÓN BIOMÉTRICA</string>
+    <string name="don_t_have_an_account">¿No tiene cuenta?</string>
+    <string name="sign_up_login">Registrarse</string>
+    <string name="email_error">El inicio de sesión no puede estar vacío</string>
+    <string name="password_error">La contraseña no puede estar vacía</string>
+    <string name="biometric_login_failed_try_standard_login">Error en el inicio de sesión biométrico. Pruebe el inicio de sesión estándar</string>
+    <string name="remember_login">Recordar inicio de sesion</string>
+    <!-- register -->
+    <string name="register">Registrarse</string>
+    <string name="nick">Nombre de usuario</string>
+    <string name="email_register">Correo</string>
+    <string name="password_register">Contraseña</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="i_accept">Acepto</string>
+    <string name="the_terms_of_the_policy_and_privacy">los términos de política y privacidad</string>
+    <string name="register_register">Registrarse</string>
+    <string name="already_have_an_account_register">¿Ya tiene una cuenta?</string>
+    <string name="back">Volver</string>
+    <string name="user_successfully_registered">Usuario registrado exitosamente</string>
+    <string name="user_exist">El usuario ya existe</string>
+    <string name="user_registration_error">Error al registrar usuario</string>
+    <string name="validation_nick1">Este campo no puede estar vacio</string>
+    <string name="validation_nick2">El nick debe ser mayor o igual a 3 caracteres</string>
+    <string name="validation_password1">La contraseña es obliatoria</string>
+    <string name="validation_password2">La longitud de la contraseña debe ser mayor o igual a 6 caracteres</string>
+    <string name="validation_password3">Las contraseñas no coinciden</string>
+    <string name="validation_login1">El login es obligatorio</string>
+    <string name="validation_login2">El login debe ser mayor o igual a 3 caracteres</string>
+    <!-- chat -->
+    <string name="title_chat">Chats</string>
+    <string name="write_a_message">Escribe un mensaje...</string>
+    <string name="send_message_icon_button" translatable="false">Send Message Icon Button</string>
+    <string name="search_chat">Buscar chat</string>
+    <string name="delete_chat">Eliminar chat</string>
+    <string name="are_you_sure_you_want_to_delete_this_chat">¿Estás seguro de que deseas eliminar este chat?</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_confirm">Confirmar</string>
+    <string name="dialog_logout">Cerrar sessión</string>
+    <string name="dialog_close_session">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="drawer_profile">Perfil</string>
+    <string name="drawer_edit_profile">Editar Perfil</string>
+    <string name="drawer_close_session">Cerrar sesión</string>
+    <!-- users -->
+    <string name="users">Usuarios</string>
+    <string name="search_user">Buscar usuario</string>
+    <string name="unknown">Desconocido</string>
+    <string name="prompt_info_title">Autenticación de aplicaciones de ejemplo</string>
+    <string name="prompt_info_subtitle">Por favor inicie sesión para obtener acceso</string>
+    <string name="prompt_info_description">La aplicación de muestra utiliza autenticación biométrica de Android</string>
+    <string name="prompt_info_use_app_password">Utilizar la contraseña de la aplicación</string>
+    <string name="authentication_failed">Autenticación fallida</string>
+    <string name="log_in_using_your_fingerprint_or_facial_recognition">Iniciar sesión mediante huella dactilar o reconocimiento facial</string>
+    <string name="navigation_back">navegation_back</string>
+    <string name="users_size">%1$s Contactos</string>
+    <string name="avatar_image">avatar image</string>
+    <string name="search_icon">search icon</string>
+    <string name="user_state_icon">User State Icon</string>
+    <string name="there_are_no_pending_messages">No hay mensajes recientes</string>
+    <string name="unknown_date">Fecha desconocida</string>
+    <string name="press_again_to_exit">Presione de nuevo para salir</string>
+
+    <!-- profile -->
+    <string name="password">Contraseña</string>
+    <string name="hide_password">Contraseña oculta</string>
+    <string name="show_password">Mostrar Contraseña</string>
+    <string name="activate_biometrics">Activar Biometría</string>
+    <string name="created">"Creado: "</string>
+    <string name="not_available">No disponible</string>
+    <string name="platform">"Plataforma: "</string>
+    <string name="update">"Actualizado: "</string>
+    <string name="profile_updated_successfully">Perfil actualizado con éxito</string>
+    <string name="error_updating_profile">Error al actualizar el perfil</string>
+    <string name="perfil">Perfil</string>
+
+</resources>

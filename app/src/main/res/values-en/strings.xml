@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string name="app_name">VassQuick</string>
+    <!-- main -->
+    <string name="welcome_to_vassquick">Welcome to VassQuick!</string>
+    <string name="let_s_connect">Let\'s connect</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <!-- login -->
+    <string name="app_logo">App Logo</string>
+    <string name="login_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password_login">Password</string>
+    <string name="login_uppercase">LOGIN</string>
+    <string name="login_cannot_be_empty">Login cannot be empty</string>
+    <string name="password_cannot_be_empty">Password cannot be empty</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="don_t_have_an_account">Don´t have an account?</string>
+    <string name="sign_up_login">sign up</string>
+    <string name="email_error">Login cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="biometric_login_failed_try_standard_login">Biometric login failed. Try standard login</string>
+    <string name="remember_login">Remember login</string>
+    <!-- register -->
+    <string name="register">Register</string>
+    <string name="nick">Nick</string>
+    <string name="email_register">Email</string>
+    <string name="password_register">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="i_accept">I accept</string>
+    <string name="the_terms_of_the_policy_and_privacy">the terms of the policy and privacy</string>
+    <string name="register_register">Register</string>
+    <string name="already_have_an_account_register">Already have an account?</string>
+    <string name="back">Back</string>
+    <string name="user_successfully_registered">User successfully registered</string>
+    <string name="user_exist">User exist</string>
+    <string name="user_registration_error">Error al registrar usuario</string>
+    <string name="validation_nick1">This field cannot be empty</string>
+    <string name="validation_nick2">The nickname must be greater than or equal to 3 characters.</string>
+    <string name="validation_password1">The password is mandatory</string>
+    <string name="validation_password2">Password length must be greater than or equal to 6 characters.</string>
+    <string name="validation_password3">Passwords do not match</string>
+    <string name="validation_login1">Login is required</string>
+    <string name="validation_login2">The login must be greater than or equal to 3 characters.</string>
+    <!-- chat -->
+    <string name="title_chat">Chats</string>
+    <string name="search_chat">Search chat</string>
+    <string name="delete_chat">Delete chat</string>
+    <string name="are_you_sure_you_want_to_delete_this_chat">Are you sure you want to delete this chat?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_logout">Sign off</string>
+    <string name="dialog_close_session">Are you sure you want to log out?</string>
+    <string name="drawer_profile">Profile</string>
+    <string name="drawer_edit_profile">Edit Profile</string>
+    <string name="drawer_close_session">Sign off</string>
+    <!-- users -->
+    <string name="users">Users</string>
+    <string name="search_user">Search user</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="prompt_info_title">Sample App Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">Sample App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="log_in_using_your_fingerprint_or_facial_recognition">Log in using your fingerprint or facial recognition</string>
+    <string name="navigation_back">navegation_back</string>
+    <string name="users_size">%1$s Contacts</string>
+    <string name="avatar_image">avatar image</string>
+    <string name="search_icon">search icon</string>
+    <string name="user_state_icon">User State Icon</string>
+    <string name="there_are_no_pending_messages">There are no recent messages</string>
+    <string name="unknown_date">Unknown date</string>
+    <string name="write_a_message">Write a message...</string>
+    <string name="press_again_to_exit">Press again to enter</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hidden Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="activate_biometrics">Activate Biometrics</string>
+    <string name="created">Created:</string>
+    <string name="not_available">Not available</string>
+    <string name="platform">Platform</string>
+    <string name="update">Update:</string>
+    <string name="profile_updated_successfully">Profile Updated Successfully</string>
+    <string name="error_updating_profile">Error updating profile</string>
+
+</resources>
